@@ -4,3 +4,5 @@
 .vscode/
 
 #Projects
+Sigma.Validation/bin
+Sigma.Validation/obj
