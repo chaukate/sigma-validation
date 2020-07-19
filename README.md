@@ -1,5 +1,6 @@
 # Summary
 ## Validation Plugin under active development. Functionality and documentation my change without notice. ##
+## Latest - v1.0.5 ##
 
 This plugin provides programmatic access to several data valiadtion functions. It consists of two validating modules.
 Each modules consists of one or more actions that perform an operation against your data validation process.
